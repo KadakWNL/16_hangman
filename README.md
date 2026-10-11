@@ -70,13 +70,13 @@ retaining responsibility for understanding and testing the result.
 
 ## Submission checklist
 
-- [ ] Task 1 completed and the original defect was reproduced and fixed.
-- [ ] Tasks 2–4 completed and tested.
-- [ ] Boundary and invalid-input cases tested.
-- [ ] No unnecessary external dependencies added.
-- [ ] No persistent storage added.
-- [ ] Code remains understandable and modular.
-- [ ] Complete LLM chat-history link included.
+- [x] Task 1 completed and the original defect was reproduced and fixed.
+- [x] Tasks 2-4 completed and tested.
+- [x] Boundary and invalid-input cases tested.
+- [x] No unnecessary external dependencies added.
+- [x] No persistent storage added.
+- [x] Code remains understandable and modular.
+- [x] Complete LLM chat-history link included (chat_history.pdf).
 
 ## Folder structure
 
@@ -94,6 +94,6 @@ scenario-04-hangman/
 
 Submission is only the following three things:
 
-- [ ] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
-- [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [ ] The Chat/LLM used page link, with the complete chat history
+- [x] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
+- [x] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
+- [x] The Chat/LLM used page link, with the complete chat history (chat_history.pdf)
